@@ -1,2 +1,1 @@
-# requirements
-A requirements managment application
+# Requirements: a managment application
